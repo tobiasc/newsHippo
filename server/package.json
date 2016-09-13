@@ -1,0 +1,22 @@
+{
+  "name": "newsHippo",
+  "description": "A small desktop app/experiment to pull a Twitter feed made with Serverless, React, & Electron.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiasc/newsHippo.git"
+  },
+  "author": "tobiasc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiasc/newsHippo/issues"
+  },
+  "homepage": "https://github.com/tobiasc/newsHippo#readme",
+  "dependencies": {
+    "async": "^2.0.1",
+    "aws-sdk": "^2.6.1",
+    "havenondemand": "^1.2.3",
+    "lodash": "^4.15.0",
+    "rollbar": "^0.6.2"
+  }
+}
